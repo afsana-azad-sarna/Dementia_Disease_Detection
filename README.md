@@ -62,38 +62,38 @@ The project uses two open-access datasets from OASIS:
 
 ### 🧩 Class Distribution
 Visualizes imbalance between dementia and non-dementia classes before and after balancing with SMOTE.  
-![Class Distribution](results/class_distribution.png)
+![Class Distribution](results/class_distribution.PNG)
 
 ---
 
 ### 🔗 Correlation Matrix
 Displays relationships between features such as `Age`, `MMSE`, `CDR`, `eTIV`, and `nWBV`.  
-![Correlation Matrix](results/correlation_matrix.png)
+![Correlation Matrix](results/correlation_matrix.PNG)
 
 ---
 
 ### 🧮 Confusion Matrix
 Shows how well the model classifies dementia vs. non-dementia cases.  
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.PNG)
 
 ---
 
 ### 📉 ROC Curve
 Represents model performance in distinguishing between classes.  
-![ROC Curve](results/roc_curve.png)
+![ROC Curve](results/roc_curve.PNG)
 
 ---
 
 ### 🌳 Feature Importance (Random Forest)
 Highlights the most influential features for predicting dementia — for instance, `MMSE`, `nWBV`, and `Age`.  
-![Feature Importance](results/feature_importance.png)
+![Feature Importance](results/feature_importance.PNG)
 
 ---
 
 ### 💡 Model Explainability (SHAP & LIME)
 Visualizes how individual features impact specific predictions, demonstrating model transparency.  
-![SHAP Explanation](results/shap_explanation.png)
-![LIME Explanation](results/lime_explanation.png)
+![SHAP Explanation](results/shap_explanation.PNG)
+![LIME Explanation](results/lime_explanation.PNG)
 
 ---
 
